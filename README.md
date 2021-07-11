@@ -3,7 +3,7 @@ https://www.rstudio.com/resources/cheatsheets/
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg)
 [Link here](https://docs.google.com/viewer?url=${link_to_raw_pdf})
-# Web APIs for R with plumber Cheatsheet![Link here](https://docs.google.com/viewer?url=https://github.com/rstudio/cheatsheets/raw/master/plumber.pdf)
+# Web APIs for R with plumber Cheatsheet![Link here](https://github.com/rstudio/cheatsheets/raw/master/plumber.pdf)
 The Plumber package enables R developers to build web APIs. Plumber uses special R comments combined with standard R functions to create API endpoints. This cheatsheet provides everything you need to get started building APIs in R with Plumber. Updated March 21.
 
 # Python with R and Reticulate Cheatsheet
