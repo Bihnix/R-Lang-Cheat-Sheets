@@ -1,4 +1,4 @@
-https://www.rstudio.com/resources/cheatsheets/
+[Source](https://www.rstudio.com/resources/cheatsheets/)
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg)
 
@@ -86,17 +86,3 @@ The devtools package makes it easy to build your own R packages, and packages ma
 [Link here](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf )
 
 R Markdown marries together three pieces of software: markdown, knitr, and pandoc. This five page guide lists each of the options from markdown, knitr, and pandoc that you can use to customize your R Markdown documents. Updated October 14.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
